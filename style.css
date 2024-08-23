@@ -1,0 +1,14 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #caddd7;
+}
+
+#project {
+  background-color: #caddd7;
+}
+section {
+  padding-top: 6rem;
+}
